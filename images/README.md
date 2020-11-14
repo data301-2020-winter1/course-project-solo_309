@@ -1,1 +1,1 @@
-This directory contains all external images
+**This directory contains all external images**
