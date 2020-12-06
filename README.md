@@ -20,3 +20,7 @@ Liam Harbec: Aspiring web developer fairly proficient in Ruby and Ruby on Rails 
 **References**
 
 https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+
+**Video presentation**
+
+https://youtu.be/73vbQBmEsoU
